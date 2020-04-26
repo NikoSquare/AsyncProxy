@@ -3,6 +3,4 @@ Hybrid proxy server for iOS (iPhone, iPad, iPod) with support HTTP and SOCKS5 TC
 
 Possible use: AsyncProxy reroutes bridged interface data through device APN (Tethering) or back through WiFi (Securing). If device use VPN connection, AsyncProxy reroute client's traffic through that connection, where after proxy traffic will be secure. Another words you can connect device to WiFi (can be public WiFi), establish VPN, and connect clients in the same WiFi through device's AsyncProxy to secure all traffic.
 
-Copyright (c) 2015 Nikita Mordasov (Mordasov.info). All rights reserved.
-
 Connections maintenance by: https://github.com/robbiehanson/CocoaAsyncSocket
